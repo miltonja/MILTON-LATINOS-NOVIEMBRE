@@ -1,6 +1,6 @@
 #EXTM3U
-
-
+#EXTINF: -1 tvg-logo = "https://i.postimg.cc/yNbnNYgy/WOW-TV-ESP.png" group-title = "CINE Y SERIES", WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://www.m3u.cl/logo/1020_Caracola_TV.png", Caracola TV * | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1022" tvg-name="EGM Channel" tvg-logo="https://i.postimg.cc/jd7kZj4q/EGM-MUSIC.png", EGM Channel * | CL
