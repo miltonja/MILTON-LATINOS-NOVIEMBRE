@@ -121,7 +121,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/vBw4QrXZ/CLARO_TV.png",Claro Sports
 http://45.179.140.242:8000/play/a0ht
-#EXTINF:-1 group-title="CHILE"https://i.postimg.cc/7Y8x44yB/GEN-TV-ESP.png" ,GenTV (720p)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/7Y8x44yB/GEN-TV-ESP.png" ,GenTV (720p)
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/wB1HLPjC/logo-nuevo-21.jpg",Live Perú TV Streaming [Not 24/7]
 http://209.126.108.55/app/stream/playlist.m3u8
