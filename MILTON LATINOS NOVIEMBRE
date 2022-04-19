@@ -31,7 +31,7 @@ https://5eae379fb77bb.streamlock.net:443/latinosradio/latinosradio/playlist.m3u8
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEvelyn.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/cableEvelynsac/picture?width=320&height=320" group-title="Local",Canal E (Evelyn) (Altomayo) [Not 24/7]
 https://srv1.mediastreamperu.com:8081/8006/index.m3u8
-#EXTINF:-1 tvg-id="CanalSonTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://canalsontv.co/wp-content/uploads/2021/05/SON-TV-logo-jpg.jpg" group-title="Music",Canal Son TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="CanalSonTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/BvdDvJRb/SON-TV-COLOMBIA.png" group-title="Music",Canal Son TV (360p) [Not 24/7]
 https://server12.videostreaming.net:3628/stream/play.m3u8
 #EXTINF:-1 tvg-id="471" tvg-name="Cine Club" tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png", Cine Club | PE
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8
