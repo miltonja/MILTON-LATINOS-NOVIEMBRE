@@ -9,12 +9,10 @@ https://master.tucableip.com/reconline/live/video.m3u8?_=1
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1022" tvg-name="EGM Channel" tvg-logo="https://i.postimg.cc/jd7kZj4q/EGM-MUSIC.png", EGM Channel * | CL
 https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://i.postimg.cc/zXDGhVmM/Vision-Plus-TV-ESP.png", Vision Plus TV * | CL
-https://v1.tustreaming.cl:19360/visionplustv/visionplustv.m3u8?PlaylistM3UCL
-#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1371443145578311687/ZqIagA15_400x400.jpg" group-title = "DEPORTE", VTV
-http://compitv.info:8080/Ulises45/gH8ZpaSLqx/64451
-#EXTINF: -1 tvg-logo = "https://i.postimg.cc/50rtR01g/ESTADIO-TNT-SPORTS-ESP.png" group-title = "DEPORTE", ESTADIO 
-https://nedmedia.akamaized.net/hls/live/2034243/feed1/master.m3u8
+#EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://i2.paste.pics/e067ea7d04aa3bcd78e8892df03409af.png", Vision Plus TV * | CL
+https://v2.tustreaming.cl:/visionplustv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="7" tvg-name="Toca Hits - Mix 24-7 Top 100" tvg-logo="https://i2.paste.pics/a49dfcb76b5d0413f88658b1a8b2716f.png", Toca Hits - Mix 24-7 Top 100 * | CL
+https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxd0MqsV/Paramount-Plus-ESP.png" group-title="CINE Y SERIES", PARAMOUNT +
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="AndesTelevisión.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Local",Andes Televisión (Sicusani) [Not 24/7]
@@ -26,7 +24,7 @@ https://videostreaming.cloudserverlatam.com:443/CLOUDFM/CLOUDFM/playlist.m3u8?Pl
 #EXTINF:-1 tvg-id="1009" tvg-name="Radiomania" tvg-logo="https://www.m3u.cl/logo/1009_Radiomania.png", Radiomania | CL
 https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://www.m3u.cl/logo/996_Latinos_Radio.png", Latinos Radio * | CL
-https://5eae379fb77bb.streamlock.net:443/latinosradio/latinosradio/playlist.m3u8?PlaylistM3UCL
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-logo = "https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title = "INFANTIL", PLANETATV KIDS
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEvelyn.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/cableEvelynsac/picture?width=320&height=320" group-title="Local",Canal E (Evelyn) (Altomayo) [Not 24/7]
