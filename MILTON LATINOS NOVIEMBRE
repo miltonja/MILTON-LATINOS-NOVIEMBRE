@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/9MDTPT9Y/billiardstv.png",Billiards TV (EU)
+https://newidco-billiardstv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/L5kcxqKn/darkmattertv.png",Darkmatter (Spanish)
 https://darkmatter-spanish-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RelaxingRain.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/USiqGyp.jpg" group-title="",Relaxing Rain (720p)
