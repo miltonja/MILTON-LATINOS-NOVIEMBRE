@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/DZ7CJbfn/RAKUTEN-ACCION-FINAL.png",Billiards TV (EU)
-https://newidco-billiardstv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/R06ZsSfr/RAKUNTEN-ACCION2.png",Darkmatter (Spanish)
-https://darkmatter-spanish-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/k4mZ1JRw/RAKUTEN-EURO-NEWS.png",EuroNews 12 (EU)
+https://rakuten-euronews-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/Zq5t4K5R/RAKUTEN-ACTION-MOVIES-2.png",Rakuten Action Movies 2 (EU)
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/D0yBbmRJ/RAKUTEN-ACTION-MOVIES-3.png",Rakuten Action Movies 3 (EU)
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/1t4gdqnr/RAKUTEN-spotlight-1.png",Rakuten Spotlight 1 (EU)
+https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RelaxingRain.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/USiqGyp.jpg" group-title="",Relaxing Rain (720p)
 https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
 #EXTINF: -1 tvg-logo = "https://i.postimg.cc/yNbnNYgy/WOW-TV-ESP.png" group-title = "CINE Y SERIES", WOW
