@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/k4mZ1JRw/RAKUTEN-EURO-NEWS.png",EuroNews 12 (EU)
 https://rakuten-euronews-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/Zq5t4K5R/RAKUTEN-ACTION-MOVIES-2.png",Rakuten Action Movies 2 (EU)
+#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/MKDmgg96/RAKUTEN-ACTION-MOVIES-2.png",Rakuten Action Movies 2 (EU)
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/D0yBbmRJ/RAKUTEN-ACTION-MOVIES-3.png",Rakuten Action Movies 3 (EU)
+#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/5tq4mqxR/RAKUTEN-ACTION-MOVIES-3.png",Rakuten Action Movies 3 (EU)
 https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i.postimg.cc/1t4gdqnr/RAKUTEN-spotlight-1.png",Rakuten Spotlight 1 (EU)
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
