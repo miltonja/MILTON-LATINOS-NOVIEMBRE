@@ -29,7 +29,7 @@ https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/jSWvkWbZ/CANAL-LOCAL-CHILE.png",Canal Local * | CL
 https://stmv2.zcastbr.com/canallocal2/canallocal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/2SfKbywX/ORIGEN-TV.png",Origen TV * | CL
-https://tv.streaming-chile.com:1936/origenradio/origenradio/playlist.m3u8?PlaylistM3UCL
+https://tv.streaming-chile.com:19360/origentv/origentv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Adultos" tvg-logo="https://i.imgur.com/4BLxN00.png",Miami TV Jenny For You | HD | Estados Unidos
 https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/.m3u8
 #EXTINF:-1 group-title="FRANCIA" tvg-logo="https://i.postimg.cc/Dybvncch/CINE-PRIME-ESP.png",Ciné Prime
