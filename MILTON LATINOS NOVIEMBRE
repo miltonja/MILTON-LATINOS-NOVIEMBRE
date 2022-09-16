@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="CINE"tvg-logo="https://i.postimg.cc/8cbk7zNv/linear-canela-cinema.jpg",CANELA CINEMA TV * |HD|
+https://stream.ads.ottera.tv/cl/70c33680-104d-457b-879d-a9868e9bd7f2/854x480_550000_3_f.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Toca Hits - Mix 24-7 Top 100" tvg-logo="https://i2.paste.pics/a49dfcb76b5d0413f88658b1a8b2716f.png", Toca Hits - Mix 24-7 Top 100 * | CL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/DZk8jbzw/tvs.png",TVS GUATEMALA
